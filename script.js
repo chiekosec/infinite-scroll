@@ -63,3 +63,4 @@ window.addEventListener("scroll", () => {
   }
 });
 window.onload = getPhotos();
+console.log("test");
